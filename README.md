@@ -38,11 +38,7 @@ Computer Science Student | Java Developer | Machine Learning Enthusiast
     <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/MADHAV1899/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="45"/>
-  </a>
+  
 </p>
-
-
 </p>
 
