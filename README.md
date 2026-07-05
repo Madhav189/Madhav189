@@ -8,17 +8,22 @@ Computer Science Student | Java Developer | Machine Learning Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Java+Developer++Competitive+Programmer++Machine+Learning+Enthusiast++++Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
-<!--
-**Madhav189/Madhav189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 B.Tech Computer Science @ VIT-AP
+
+🌱 Currently learning
+
+• Spring Boot
+
+• Machine Learning
+
+• System Design
+
+💻 Solved 600+ DSA Problems
+
+🚀 Looking for Software Engineering Internship
+
+⚡ Fun Fact:
+I enjoy solving algorithmic problems more than sleeping 😄
