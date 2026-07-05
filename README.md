@@ -6,6 +6,8 @@ Hi 👋 I'm Madhav Prakash
 Computer Science Student | Java Developer | Machine Learning Enthusiast
 </h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Java+Developer++Competitive+Programmer++Machine+Learning+Enthusiast++++Always+Learning+New+Technologies)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Java+Developer++Competitive+Programmer++Machine+Learning+Enthusiast++++Always+Learning+New+Technologies" alt="Typing SVG" /></a>
 <!--
 **Madhav189/Madhav189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
