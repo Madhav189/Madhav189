@@ -6,7 +6,7 @@ Hi 👋 I'm Madhav Prakash
 Computer Science Student | Java Developer | Machine Learning Enthusiast
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Java+Developer++Competitive+Programmer++Machine+Learning+Enthusiast++++Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Java+Developer++Machine+Learning+Enthusiast++++Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 
 ## 👨‍💻 About Me
@@ -25,7 +25,6 @@ Computer Science Student | Java Developer | Machine Learning Enthusiast
 
 🚀 Looking for Software Engineering Internship
 
-## 🌐 Connect With Me
 
 <h3 align="center">🌐 Connect with Me</h3>
 
