@@ -25,3 +25,12 @@ Computer Science Student | Java Developer | Machine Learning Enthusiast
 
 🚀 Looking for Software Engineering Internship
 
+LinkedIn
+
+Portfolio
+
+Resume
+
+LeetCode
+
+GeeksforGeeks
