@@ -43,12 +43,6 @@ Computer Science Student | Java Developer | Machine Learning Enthusiast
   </a>
 </p>
 
-<a href="mailto:chmadhavprakash@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
 
-<a href="https://github.com/Madhav189">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
 </p>
 
