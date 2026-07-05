@@ -25,12 +25,9 @@ Computer Science Student | Java Developer | Machine Learning Enthusiast
 
 🚀 Looking for Software Engineering Internship
 
-LinkedIn
+## 🌐 Connect With Me
 
-Portfolio
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhav-ch-243990344/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chmadhavprakash@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/MADHAV1899/)
 
-Resume
-
-LeetCode
-
-GeeksforGeeks
