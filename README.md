@@ -27,10 +27,21 @@ Computer Science Student | Java Developer | Machine Learning Enthusiast
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/madhav-ch-243990344/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
+<h3 align="center">🌐 Connect with Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/madhav-ch-243990344/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:chmadhavprakash@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/MADHAV1899/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="45"/>
+  </a>
+</p>
 
 <a href="mailto:chmadhavprakash@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
