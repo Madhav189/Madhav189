@@ -21,9 +21,7 @@ Computer Science Student | Java Developer | Machine Learning Enthusiast
 
 • System Design
 
-💻 Solved 600+ DSA Problems
+💻 Solved 400+ DSA Problems
 
 🚀 Looking for Software Engineering Internship
 
-⚡ Fun Fact:
-I enjoy solving algorithmic problems more than sleeping 😄
