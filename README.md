@@ -39,22 +39,22 @@ I am a Computer Science Engineering undergraduate specializing in backend and fu
 
 ### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,sql&theme=light" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp,sql&theme=light" alt="Languages" />
 </p>
 
 ### Backend & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,mongodb,redis&theme=light" alt="Backend and Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis&theme=light" alt="Backend and Databases" />
 </p>
 
 ### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=light" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=light" alt="Frontend" />
 </p>
 
 ### Tools & AI/ML
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,docker&theme=light" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker&theme=light" alt="Tools" />
 </p>
 <p align="left">
   <em>LangChain • FAISS • HuggingFace • Llama 3 • OpenAI</em>
