@@ -13,7 +13,7 @@ FOLDER STRUCTURE & SETUP INSTRUCTIONS
 
 # <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Hi,+I'm+Madhav+Prakash;Software+Engineer;Backend+%7C+Full+Stack+%7C+AI" alt="Typing SVG" />
 
-**Software Engineer | B.Tech CS @ VIT-AP (9.10 CGPA) | Oracle Certified Gen AI Professional**
+**Software Engineer | B.Tech CS @ VIT-AP | Oracle Certified Gen AI Professional**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhav-ch-243990344/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/MADHAV1899/)
